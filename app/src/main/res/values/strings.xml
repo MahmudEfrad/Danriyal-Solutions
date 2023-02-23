@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Danriyal Solutions</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_in_btn">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_now">Register Now</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_register">Already Register?</string>
+    <string name="or_sign_up_with">or sign up with</string>
+    <string name="username">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
